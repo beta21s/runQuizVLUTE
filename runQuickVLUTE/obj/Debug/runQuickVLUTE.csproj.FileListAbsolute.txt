@@ -1,0 +1,11 @@
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\bin\Debug\runQuickVLUTE.exe
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\bin\Debug\runQuickVLUTE.pdb
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.Properties.Resources.resources
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.csproj.GenerateResource.cache
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.exe
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.pdb
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.frmMain.resources
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.csproj.CopyComplete
+C:\Users\TrPha\Desktop\runQuickVLUTE\runQuickVLUTE\obj\Debug\runQuickVLUTE.csprojAssemblyReference.cache
